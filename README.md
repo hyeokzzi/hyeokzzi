@@ -1,14 +1,13 @@
 ### 
 
 
-# Using Language
+# 🖥️ Using Language 🖥️
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=blue"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
-
+# 🥇 Study
+  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)   
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokzzi&show_icons=true&theme=dracula) 
 
 <!--
