@@ -2,11 +2,12 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokzzi&show_icons=true&theme=radical) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokzzi&show_icons=true&theme=radical) [!
 
 <!--
 **hyeokzzi/hyeokzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
