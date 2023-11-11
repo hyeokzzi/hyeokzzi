@@ -1,29 +1,36 @@
-### 
 <div align="center">
   
+### 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Hyeokzzi's%20Git&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+</div>
 
 ## 🙌🏼 Introduction
+  인천대 임베디드시스템공학과 김지혁입니다.
   
-
+<div align="center">
+  
 ## 🖥️ Skills
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/>  
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>    
+ <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat&logo=NVIDIA&logoColor=white"/>  
+</div>
 
-## ✒️ Studing 
-   
+## 🖥️ activity 
+* 2021.0
+* 2022.09 ~ **인천대학교 창업동아리 파이**
+* 2022.09 ~ 2023.01 인천과학 문화거점센터 (우리동네 과학클럽 프로그램) - 활동 수료 및 우수동아리 선정
+* 2023.06 ~ 현대오토에버 모빌리티 임베디드SW 스쿨 1기
+
+
 ## 💪🏼 Problem solving 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnekvptmxm74)](https://solved.ac/qnekvptmxm74)   
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 </div>
    
-## 🖥️ activity 
-* 2022.09 ~ **인천대학교 창업동아리 파이**
-* 2022.09 ~ 2023.01 인천과학 문화거점센터 (우리동네 과학클럽 프로그램) - 활동 수료 및 우수동아리 선정
-
-
-<div align="center">
 
 ##  🏃🏼‍♂️ Git Active  
 
